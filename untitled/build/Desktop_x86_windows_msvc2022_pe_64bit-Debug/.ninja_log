@@ -1,0 +1,9 @@
+# ninja log v5
+5	312	7516721588459482	untitled_autogen/timestamp	dd1a029d0761136c
+5	312	7516721588459482	untitled_autogen/mocs_compilation.cpp	dd1a029d0761136c
+5	312	7516721588459482	C:/Users/Максим/Documents/qt_project/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/untitled_autogen/timestamp	dd1a029d0761136c
+5	312	7516721588459482	C:/Users/Максим/Documents/qt_project/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/untitled_autogen/mocs_compilation.cpp	dd1a029d0761136c
+315	1357	7516721599283639	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	500d17350b726e7c
+319	1384	7516721599553053	CMakeFiles/untitled.dir/mainwindow.cpp.obj	d73d2f18a3d512e3
+317	1622	7516721601914452	CMakeFiles/untitled.dir/main.cpp.obj	aad9b8f46cc8e016
+1623	1836	7516721603947613	untitled.exe	bfba49e4c74111c2
