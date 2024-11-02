@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-66f2e569e844342e854e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PacketTestProject",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PacketTestProject::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PacketTestProject-Debug-43a8bb410a25eda9d770.json",
+					"name" : "PacketTestProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PacketTestProject_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PacketTestProject_autogen-Debug-957b15c70d4a205f8046.json",
+					"name" : "PacketTestProject_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PacketTestProject_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PacketTestProject_autogen_timestamp_deps-Debug-a8230b0ba24da64e9334.json",
+					"name" : "PacketTestProject_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u041c\u0430\u043a\u0441\u0438\u043c/Documents/qt_project_w/PacketTestProject/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug",
+		"source" : "C:/Users/\u041c\u0430\u043a\u0441\u0438\u043c/Documents/qt_project_w/PacketTestProject"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

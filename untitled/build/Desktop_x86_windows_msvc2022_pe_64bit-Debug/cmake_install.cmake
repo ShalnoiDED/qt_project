@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Максим/Documents/qt_project/untitled
+# Install script for directory: C:/Users/Максим/Documents/qt_project_w/untitled
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -33,7 +33,7 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "C:/Users/Максим/Documents/qt_project/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/untitled.exe")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "C:/Users/Максим/Documents/qt_project_w/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/untitled.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -44,5 +44,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Максим/Documents/qt_project/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Максим/Documents/qt_project_w/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

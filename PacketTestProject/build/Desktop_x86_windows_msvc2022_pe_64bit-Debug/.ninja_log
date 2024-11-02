@@ -1,0 +1,14 @@
+# ninja log v5
+18	104	7522412781038569	PacketTestProject_autogen/timestamp	42ead96cf1dec92e
+18	104	7522412781038569	PacketTestProject_autogen/mocs_compilation.cpp	42ead96cf1dec92e
+18	104	7522412781038569	C:/Users/Максим/Documents/qt_project_w/PacketTestProject/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/PacketTestProject_autogen/timestamp	42ead96cf1dec92e
+18	104	7522412781038569	C:/Users/Максим/Documents/qt_project_w/PacketTestProject/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/PacketTestProject_autogen/mocs_compilation.cpp	42ead96cf1dec92e
+105	617	7522412786447243	CMakeFiles/PacketTestProject.dir/PacketTestProject_autogen/mocs_compilation.cpp.obj	c477e96b3d516eee
+108	1438	7522412794624582	CMakeFiles/PacketTestProject.dir/main.cpp.obj	ad884edc0d4afeed
+1438	1714	7522412797298661	PacketTestProject.exe	6d76c3e58d8d10e
+14	1387	7522413280356218	CMakeFiles/PacketTestProject.dir/main.cpp.obj	ad884edc0d4afeed
+1387	1493	7522413281236302	PacketTestProject.exe	6d76c3e58d8d10e
+13	1357	7522413448138755	CMakeFiles/PacketTestProject.dir/main.cpp.obj	ad884edc0d4afeed
+1358	1456	7522413448929492	PacketTestProject.exe	6d76c3e58d8d10e
+15	1386	7522414088886069	CMakeFiles/PacketTestProject.dir/main.cpp.obj	ad884edc0d4afeed
+1387	1484	7522414089667129	PacketTestProject.exe	6d76c3e58d8d10e

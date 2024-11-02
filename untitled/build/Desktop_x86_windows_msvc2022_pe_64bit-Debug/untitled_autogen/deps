@@ -491,13 +491,13 @@ untitled_autogen/timestamp: \
 	C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/Windows.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake \
-	C:/Users/Максим/Documents/qt_project/untitled/CMakeLists.txt \
-	C:/Users/Максим/Documents/qt_project/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/.qtc/package-manager/auto-setup.cmake \
-	C:/Users/Максим/Documents/qt_project/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
-	C:/Users/Максим/Documents/qt_project/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/3.29.3/CMakeRCCompiler.cmake \
-	C:/Users/Максим/Documents/qt_project/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake \
-	C:/Users/Максим/Documents/qt_project/untitled/main.cpp \
-	C:/Users/Максим/Documents/qt_project/untitled/mainwindow.cpp \
-	C:/Users/Максим/Documents/qt_project/untitled/mainwindow.h \
-	C:/Users/Максим/Documents/qt_project/untitled/mainwindow.ui \
+	C:/Users/Максим/Documents/qt_project_w/untitled/CMakeLists.txt \
+	C:/Users/Максим/Documents/qt_project_w/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	C:/Users/Максим/Documents/qt_project_w/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/3.29.3/CMakeCXXCompiler.cmake \
+	C:/Users/Максим/Documents/qt_project_w/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/3.29.3/CMakeRCCompiler.cmake \
+	C:/Users/Максим/Documents/qt_project_w/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake \
+	C:/Users/Максим/Documents/qt_project_w/untitled/main.cpp \
+	C:/Users/Максим/Documents/qt_project_w/untitled/mainwindow.cpp \
+	C:/Users/Максим/Documents/qt_project_w/untitled/mainwindow.h \
+	C:/Users/Максим/Documents/qt_project_w/untitled/mainwindow.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

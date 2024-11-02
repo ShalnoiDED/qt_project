@@ -1,4 +1,4 @@
-C:/Users/Максим/Documents/qt_project/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/untitled_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/Максим/Documents/qt_project/untitled/mainwindow.h \
+C:/Users/Максим/Documents/qt_project_w/untitled/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/untitled_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/Максим/Documents/qt_project_w/untitled/mainwindow.h \
   C:/Qt/6.8.0/msvc2022_64/include/QtCore/q20functional.h \
   C:/Qt/6.8.0/msvc2022_64/include/QtCore/q20iterator.h \
   C:/Qt/6.8.0/msvc2022_64/include/QtCore/q20memory.h \
